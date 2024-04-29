@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **RuposovaAnna/RuposovaAnna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center"> 
+  <hl> Hi there, I'm Anna</h1>
+<h3>Data Analyst</h3>
+</div>
