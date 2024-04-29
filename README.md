@@ -18,3 +18,12 @@ Here are some ideas to get you started:
   <hl> Hi there, I'm Anna</h1>
 <h3>Data Analyst</h3>
 </div>
+ 
+### Languages and tools 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"         
+title="js" width="40" height= "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"         
+title="js" width="40" height= "40"/>&nbsp;
+
+
+            
