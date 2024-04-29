@@ -18,30 +18,30 @@ Here are some ideas to get you started:
 Меня зовут Аня, мне 29 лет. Я - начинающий аналитик данных 💻
 
 Цифры - это моя стихия 🌊 
-С юного возраста люблю решать логические задачки, изучать данные и находить зависимости.
-Имею опыт анализа в Excel. Решила развиваться в этом направлении и изучила новую
+С юного возраста люблю решать логические задачки, изучать данные и находить зависимости.  
+Имею опыт анализа данных в Excel. Решила развиваться в этом направлении и изучила новую
 сферу "Аналитик данных", где применяю Python, SQL и Power BI  в качестве основных
 инструментов анализа. Стремлюсь к развитию в этом направлении и постоянно повышаю
-свой уровень знаний 📈
+свой уровень знаний 📈  
 В свободное время люблю читать 📚, заниматься йогой  и хайкингом. 
 
 -----
 #### 🛠️ Языки программирования и инструменты :
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
-title="js" width="40" height= "40"/>&nbsp;
+title="postgresql" width="40" height= "40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
-title="js" width="40" height= "40"/>&nbsp;
+title="dbeaver" width="40" height= "40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
-title="js" width="40" height= "40"/>&nbsp; 
+title="python" width="40" height= "40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
-title="js" width="40" height= "40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" 
-title="js" width="40" height= "40"/>&nbsp;
+title="jupyter" width="40" height= "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
+title="pandas" width="40" height= "40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" 
-title="js" width="40" height= "40"/>&nbsp;
+title="numpy" width="40" height= "40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg"
-title="js" width="40" height= "40"/>&nbsp; 
+title="matplotlib" width="40" height= "40"/>&nbsp; 
 </div>
 
 #### 🔗 Ссылка для быстрой связи со мной :
@@ -57,8 +57,32 @@ title="js" width="40" height= "40"/>&nbsp;
   <img width="650" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15148393/default.pdf">
 </p>
 
+[Профессия Data Analyst](https://drive.google.com/file/d/1Ir8avVqOKzWPisy4r_-qZjrjmFcPpgl3/view?usp=sharing "Ссылка на сертификат") 
+
+<p align="center">
+  <img width="650" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15153669/_Python.pdf">
+</p>
 
 
-          
+[Python для анализа данных](https://drive.google.com/file/d/1h38SinG-Gqs5mTjkZ-f4LOEU8iag_SzP/view?usp=sharing "Ссылка на сертификат") 
 
-            
+<p align="center">
+  <img width="650" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15153734/_SQL.pdf">
+</p>
+
+
+[Курс-тренажер по SQL](https://drive.google.com/file/d/1i-fA7cRo_OZ6s10v5X7j6sB0IBv1wYHq/view?usp=sharing "Ссылка на сертификат") 
+
+<p align="center">
+  <img width="650" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15153773/_google.pdf">
+</p>
+
+
+[Мастер Google таблиц](https://drive.google.com/file/d/1Yz4cUA1MRQIvAlOkCU7Rwc6ZZhzHM-Yq/view?usp=sharing "Ссылка на сертификат") 
+
+<p align="center">
+  <img width="350" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15153811/default.pdf">
+</p>
+
+
+[Благодарность](https://drive.google.com/file/d/1PNcQcfInymJA2qmpLE9M7Di6hGoOJy_r/view?usp=sharing "Ссылка на благодарность") 
