@@ -14,16 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="header" align="center"> 
-  <hl> Hi there, I'm Anna</h1>
-<h3>Data Analyst</h3>
-</div>
- 
-### Languages and tools 
+
+# O себе
+---
+Меня зовут Аня, мне 29 лет. Я - начинающий аналитик данных 💻
+
+Цифры - это моя стихия 🌊 
+С юного возраста люблю решать логические задачки, изучать данные и находить зависимости.
+Имею опыт анализа в Excel. Решила развиваться в этом направлении и изучила новую
+сферу "Аналитик данных", где применяю Python, SQL и Power BI  в качестве основных
+инструментов анализа. Стремлюсь к развитию в этом направлении и постоянно повышаю
+свой уровень знаний 📈
+В свободное время люблю читать 📚, заниматься йогой  и хайкингом.
+
+---
+### Языки программирования и инструменты: 
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
 title="js" width="40" height= "40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
 title="js" width="40" height= "40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" 
+title="js" width="40" height= "40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"
 title="js" width="40" height= "40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" 
@@ -31,9 +43,10 @@ title="js" width="40" height= "40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain-wordmark.svg" 
 title="js" width="40" height= "40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg"
-title="js" width="40" height= "40"/>&nbsp;
+title="js" width="40" height= "40"/>&nbsp; 
+</div>
           
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/Anna_Rup">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
