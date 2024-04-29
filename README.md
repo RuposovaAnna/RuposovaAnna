@@ -50,8 +50,15 @@ title="js" width="40" height= "40"/>&nbsp;
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-          
-          
+
+#### 🎓 Сертификаты :
+
+<p align="center">
+  <img width="650" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15148393/default.pdf">
+</p>
+
+
+
           
 
             
