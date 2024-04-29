@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 В свободное время люблю читать 📚, заниматься йогой  и хайкингом. 
 
 ---
-### Языки программирования и инструменты: 
+### Языки программирования и инструменты 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" 
 title="js" width="40" height= "40"/>&nbsp;
@@ -46,7 +46,7 @@ title="js" width="40" height= "40"/>&nbsp;
 </div>
 
 ---
-### Ссылка для быстрой связи со мной 📱
+### Ссылка для быстрой связи со мной 
 <div id="badges" align="center">
   <a href="https://t.me/Anna_Rup">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
