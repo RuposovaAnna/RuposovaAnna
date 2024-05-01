@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 сферу "Аналитик данных", где применяю Python, SQL и Power BI  в качестве основных
 инструментов анализа. Стремлюсь к развитию в этом направлении и постоянно повышаю
 свой уровень знаний 📈  
-В свободное время люблю читать 📚, заниматься йогой  и хайкингом. 
+В свободное время люблю читать 📚, заниматься йогой  и плаванием. 
 
 -----
 #### 🛠️ Языки программирования и инструменты :
@@ -81,8 +81,20 @@ title="matplotlib" width="40" height= "40"/>&nbsp;
 [Мастер Google таблиц](https://drive.google.com/file/d/1Yz4cUA1MRQIvAlOkCU7Rwc6ZZhzHM-Yq/view?usp=sharing "Ссылка на сертификат") 
 
 <p align="center">
-  <img width="350" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15153811/default.pdf">
+  <img width="650" height="450" src= "https://github.com/RuposovaAnna/RuposovaAnna/files/15174967/default.pdf">
 </p>
 
 
+[Финалист хакатона](https://drive.google.com/file/d/1m0U_bu2ft_wJ5VZzPnM9HTvhb-_mY0pb/view?usp=sharing "Ссылка на сертификат")
+
+<p align="center">
+  <img width="350" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15153811/default.pdf">
+</p>
+
 [Благодарность](https://drive.google.com/file/d/1PNcQcfInymJA2qmpLE9M7Di6hGoOJy_r/view?usp=sharing "Ссылка на благодарность") 
+
+<p align="center">
+  <img width="650" height="450" src="https://github.com/RuposovaAnna/RuposovaAnna/files/15174987/_.pdf">
+</p>
+
+[Участник мегахакатона](https://drive.google.com/file/d/1P8dDwA2rOiFWLZ0ooqF2OyDb0HLvGVvc/view?usp=sharing "Ссылка на благодарность") 
